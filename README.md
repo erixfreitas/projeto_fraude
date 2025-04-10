@@ -156,9 +156,5 @@ Exibe a classificação e as probabilidades de fraude.
 
 ---
 
-## 👤 Autor
-
-- Erix Santos de Freitas  
-- Projeto para fins educacionais e de demonstração em ciência de dados
 
 
